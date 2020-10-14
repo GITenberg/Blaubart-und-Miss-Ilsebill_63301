@@ -1,5 +1,5 @@
 _repo: Blaubart-und-Miss-Ilsebill_63301
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Blaubart und Miß Ilsebill
 contributor:
   illustrator:
@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - https://de.wikipedia.org/wiki/Carl_Rabus
     - https://en.wikipedia.org/wiki/Carl_Rabus
+covers:
+- cover_type: archival
+  image_path: 63301-h/images/cover.jpg
 creator:
   author:
     agent_name: Döblin, Alfred
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35387
     wikipedia: http://de.wikipedia.org/wiki/Alfred_D%C3%B6blin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63301#Blaubart-und-Miss-Ilsebill
 gutenberg_issued: '2020-09-26'
 gutenberg_type: Text
 identifiers:
