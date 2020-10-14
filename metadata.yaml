@@ -1,0 +1,45 @@
+_repo: Blaubart-und-Miss-Ilsebill_63301
+_version: 0.0.1
+alternative_title: Blaubart und Miß Ilsebill
+contributor:
+  illustrator:
+    agent_name: Rabus, Carl
+    birthdate: 1898
+    deathdate: 1983
+    gutenberg_agent_id: '52369'
+    url: http://www.gutenberg.org/2009/agents/52369
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Carl_Rabus
+    - https://en.wikipedia.org/wiki/Carl_Rabus
+creator:
+  author:
+    agent_name: Döblin, Alfred
+    aliases:
+    - Doeblin, Alfred
+    - Doblin, Alfred
+    - Deblin, A.
+    - Poot, Linke
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '35387'
+    url: http://www.gutenberg.org/2009/agents/35387
+    wikipedia: http://de.wikipedia.org/wiki/Alfred_D%C3%B6blin
+description: ''
+gutenberg_issued: '2020-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63301'
+  lccn: '44030464'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- 20th century'
+- !lcsh 'Short stories, German'
+- GITenberg
+tableOfContents: Das verwerfliche Schwein -- Die Nachtwandlerin -- Der Ritter Blaubart
+  -- Die Segelfahrt.
+title: Blaubart und Miss Ilsebill
+url: http://www.gutenberg.org/ebooks/63301
